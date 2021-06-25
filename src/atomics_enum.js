@@ -1,0 +1,4 @@
+export const SHARED_ARRAY_BUFFER_INDEX = {
+  SEMAPHORE: 0,
+  READ_N: 1,
+};
